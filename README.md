@@ -32,5 +32,5 @@ bash <(curl -s https://raw.githubusercontent.com/zerostore8/Pterodactyl-Theme-Au
 _\* di atas adalah os yang saya test, selebihnya bisa di test sendiri._
 
 ## Credits 
-- Recode By [ Skyzoe ](https://github.com/zerostore8)
-- Created by [ FOXSTORE ](https://github.com/zerostore8)
+- Recode By [ ZEROSTORE8 ](https://github.com/zerostore8)
+- Created by [ ZEROSTORE8 ](https://github.com/zerostore8)
